@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boxing Glove
+* source:	https://sketchfab.com/3d-models/boxing-glove-84424f446e7f4c3b8bf1c3204b581f28
+* author:	Pedro Perim (https://sketchfab.com/PedroPerim)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boxing Glove" (https://sketchfab.com/3d-models/boxing-glove-84424f446e7f4c3b8bf1c3204b581f28) by Pedro Perim (https://sketchfab.com/PedroPerim) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
